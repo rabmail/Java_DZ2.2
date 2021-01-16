@@ -8,7 +8,7 @@
 **На тестирование затрачено: 2 час.**
 
 ## В результате тестирования выявлены следующие дефекты:
-
+[Ошибки сложения](https://github.com/rabmail/Java_DZ2.2/issues/1#issue-787428781)
 
 
 
@@ -16,14 +16,15 @@
 
 ## В качестве тестовых данных использовались данные:
 
-- regularBonus = 0.3;
-- specialBonus = 0.6.
+0.3;
+0.6.
 
 ## Тестирование производилось в следующем окружении:
 
-# версия и разрядность ОС: 
+## версия и разрядность ОС: 
 - Windows 10 PRO, 64, версия 1909
-# версия Java:
+
+## версия Java:
 - openjdk version "11.0.9.1" 2020-11-04
 - OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 - OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
